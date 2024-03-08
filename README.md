@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @santii-ez (Santiago García). I’m 18. I’m from Mendoza, Argentina. I’m working on **Samsung** (sales)
+- 👋 Hi, I’m @santii-ez (Santiago García). I’m 20. I’m from Mendoza, Argentina. I’m working on **Samsung** (sales)
 - 👀 I’m interested in technology, **programming**, hardware and software, economy, math, **cellphones** and computers.
-- 🌱 I’m currently learning **web development**.
+- 🌱 I’m currently learning **Data Science**.
 - 💞️ I’m looking to collaborate on group projects with people better than me. I like a lot **learn about others**!
 - 📫 How to reach me: **santiago_garciagarcia@outlook.com** (email).
 
